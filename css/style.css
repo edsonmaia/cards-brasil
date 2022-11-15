@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.card {
+    margin: 10px;
+    width: 200px;
+    height: 298px;
+    background: #F4D400;
+    border-radius: 5px;
+}
+
+.posicaoP, .nomeJogador, .numero {
+    font-size: 30px;
+    color: #544592;
+}
+
+.posicaoG {
+    font-size: 90px;
+    color: #F9E97F;
+}
+
+.escudo {
+    height: 56px;
+}
