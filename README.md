@@ -10,6 +10,8 @@ Este é mais um projeto do canal Professor Edson Maia
 
 Objetivo criar os cards de cada um dos 26 jogadores da Seleção Brasileira que vão defender o Brasil na Copa do Catar 2022.
 
+[<img src="https://github.com/edsonmaia/cards-brasil/blob/main/cards.PNG">](http://github.com/edsonmaia/cards-brasil/blob/main/cards.png/)
+
 No projeto vamos ver o passo a passo de utilização do HTML5, CSS3 e JS para criar uma aplicação web moderna.
 
 Salve Devs e até a próxima!
