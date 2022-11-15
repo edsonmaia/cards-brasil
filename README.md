@@ -14,8 +14,8 @@ Objetivo criar os cards de cada um dos 26 jogadores da Seleção Brasileira que 
 
 No projeto vamos ver o passo a passo de utilização do HTML5, CSS3 e JS para criar uma aplicação web moderna.
 
-🎨 [LINK DO FIGMA](https://www.figma.com/file/AsZN3xkn79vijUwAuPxTLm/new-card-brasil-2022?node-id=0%3A1)
+🎨 [Projeto no Figma](https://www.figma.com/file/AsZN3xkn79vijUwAuPxTLm/new-card-brasil-2022?node-id=0%3A1)
 
-📷 [LINK DAS IMAGENS DO (PROJETO BASE)](https://drive.google.com/file/d/1-oXHQthzHLxHMVKXzD5Yc9Ll2l8MTTeJ/view?usp=sharing)
+📷 [Imagens do projeto base)](https://drive.google.com/file/d/1-oXHQthzHLxHMVKXzD5Yc9Ll2l8MTTeJ/view?usp=sharing)
 
 Salve Devs e até a próxima!
