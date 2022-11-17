@@ -73,5 +73,5 @@
 .numero {
     position: absolute;
     right: 16px;
-    bottom: 8px;
+    bottom: 0px; /* era 8px */
 }
